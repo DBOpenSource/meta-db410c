@@ -2,7 +2,7 @@ SUMMARY = "DragonBoard 410c 96Boards firmware"
 DESCRIPTION = "Qualcomm 96Boards firmware such as for the DB410C"
 SECTION = "base"
 LICENSE = "Proprietary"
-LIC_FILES_CHKSUM = "file://${WORKDIR}/LICENSE;md5=00b02c5b3877a4ba14782b9424c6e179"
+LIC_FILES_CHKSUM = "file://${WORKDIR}/LICENSE;md5=fb3bff92a85d4423f0d10238b27f777d"
 
 SRC_URI = "file://linux-ubuntu-board-support-package-v1.zip \
           file://LICENSE \
